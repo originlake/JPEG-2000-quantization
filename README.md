@@ -1,2 +1,2 @@
 # JPEG-2000-quantization
-# A simple impletation of JPEG-2000 quantization part
+A simple implementation of JPEG-2000 quantization part
